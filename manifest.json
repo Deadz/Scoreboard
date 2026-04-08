@@ -1,0 +1,26 @@
+{
+  "name": "ScoreBoard",
+  "short_name": "ScoreBoard",
+  "description": "Comptez les points de vos jeux de société",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0f0f1a",
+  "theme_color": "#e94560",
+  "orientation": "portrait",
+  "lang": "fr",
+  "categories": ["games", "utilities"],
+  "icons": [
+    {
+      "src": "/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
