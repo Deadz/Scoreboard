@@ -1,0 +1,1 @@
+-> https://deadz.github.io/Scoreboard/
