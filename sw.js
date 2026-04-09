@@ -1,10 +1,10 @@
 const CACHE_NAME = 'scoreboard-v1';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/manifest.json',
-  '/icons/icon-192.png',
-  '/icons/icon-512.png',
+  './',
+  './index.html',
+  './manifest.json',
+  './web-app-manifest-192x192.png',
+  './web-app-manifest-512x512.png',
   'https://www.w3schools.com/w3css/4/w3.css',
   'https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&display=swap'
 ];
